@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\gosha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Geekbrains\\Main\\Working\\Working.csproj",
+      "projectUniqueName": "C:\\Users\\gosha\\OneDrive\\Рабочий стол\\GORIK\\Seminars2\\Working\\Working.csproj",
       "projectName": "Working",
-      "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Geekbrains\\Main\\Working\\Working.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Geekbrains\\Main\\Working\\obj\\",
+      "projectPath": "C:\\Users\\gosha\\OneDrive\\Рабочий стол\\GORIK\\Seminars2\\Working\\Working.csproj",
+      "packagesPath": "C:\\Users\\gosha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gosha\\OneDrive\\Рабочий стол\\GORIK\\Seminars2\\Working\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\gosha\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

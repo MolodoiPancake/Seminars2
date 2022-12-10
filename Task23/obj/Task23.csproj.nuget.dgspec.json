@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Geekbrains\\Main\\Task23\\Task23.csproj": {}
+    "C:\\Users\\gosha\\OneDrive\\Рабочий стол\\GORIK\\Seminars2\\Task23\\Task23.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\Geekbrains\\Main\\Task23\\Task23.csproj": {
+    "C:\\Users\\gosha\\OneDrive\\Рабочий стол\\GORIK\\Seminars2\\Task23\\Task23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Geekbrains\\Main\\Task23\\Task23.csproj",
+        "projectUniqueName": "C:\\Users\\gosha\\OneDrive\\Рабочий стол\\GORIK\\Seminars2\\Task23\\Task23.csproj",
         "projectName": "Task23",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Geekbrains\\Main\\Task23\\Task23.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\Geekbrains\\Main\\Task23\\obj\\",
+        "projectPath": "C:\\Users\\gosha\\OneDrive\\Рабочий стол\\GORIK\\Seminars2\\Task23\\Task23.csproj",
+        "packagesPath": "C:\\Users\\gosha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gosha\\OneDrive\\Рабочий стол\\GORIK\\Seminars2\\Task23\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\gosha\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
